@@ -1,4 +1,3 @@
-__author__ = 'luoyuan'
 
 import numpy as np
 
@@ -181,8 +180,6 @@ class char_lstm:
 if __name__ == '__main__':
     charlstm = char_lstm()
     train_input_path = "./light_test.txt"
- #   train_input_path = "./shakespear.txt"
- #   train_input_path = './sonnet18.txt'
     charlstm.train(train_input_path)
 
 
