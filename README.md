@@ -1,4 +1,4 @@
-#min-char-LSTM
+# min-char-LSTM
 
 One layer character-level vanilla LSTM. 
 Able to learn a simple sentence, like "Shall I compare thee to a summer's day?"
